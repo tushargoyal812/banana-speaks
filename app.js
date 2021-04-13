@@ -1,3 +1,3 @@
-prompt();
-alert("alert chla")
+var translate=document.querySelector("#btn-translate");
 
+console.log(translate)
